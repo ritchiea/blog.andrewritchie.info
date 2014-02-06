@@ -69,5 +69,5 @@ Shipping the app was a great experience and I look forward to working on
 more visualizations in the future. There's nothing like shiping to teach
 you how to create better work next time.
 
-Also a big thanks to my friends Hallie McNeal and Eli Dvorkin for feedback on my work in
+Also a big thanks to my friends Hallie McNeill and Eli Dvorkin for feedback on my work in
 progress.
