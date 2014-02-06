@@ -9,7 +9,7 @@ This is a long overdue post mortem of [NYC-Dems](http://nyc-dems.com) my partici
 
 The visualization was conceptualized and coded in a few days a week before the primary. You could call it a one man hackathon. With the primary just a week away a friend asked me who I was voting for and I realized I knew very little about the candidates and that neither my friends nor the media I consume were talking about the election. Being a developer I thought the best thing I could do was code up a medium to spark discussion.
 
-My goal was to create a space on the web for the types of conversations I had with voters as a political organizer. I also hoped to learn a bit more about the candidates, as well as about my neighbors and my fellow New Yorkers. It felt great to ship in app in just a few days of work, and while I would have loved to see more participation, I consider it a small success to get a few thousand visits. And the map made it to the top of [r/nyc](http://reddit.com/r/nyc) which felt good as a redditor.
+My goal was to create a space on the web for the types of conversations I had going door-to-door speaking to voters as a political organizer. I also hoped to learn a bit more about the candidates, as well as about my neighbors and my fellow New Yorkers. It felt great to ship in app in just a few days of work, and while I would have loved to see more participation, I consider it a small success to get a few thousand visits. And the map made it to the top of [r/nyc](http://reddit.com/r/nyc) which felt good as a redditor.
 
 <div class="center-img-container">
   <img class="center" width="558" height="390" src="/assets/dems-screen.png" alt="NYC-Dems screenshot">
@@ -71,5 +71,5 @@ Shipping the app was a great experience and I look forward to working on
 more visualizations in the future. There's nothing like shiping to teach
 you how to create better work next time.
 
-Also a big thanks to my friends Hallie McNeill and Eli Dvorkin for feedback on my work in
+Also big thanks to my friends Hallie McNeill and Eli Dvorkin for their feedback on my work in
 progress.
