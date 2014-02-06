@@ -163,3 +163,16 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* AR additions below */
+
+img .center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.center-img-container {
+  text-align: center;
+  margin-bottom: 1em;
+}

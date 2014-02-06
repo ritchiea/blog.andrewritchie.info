@@ -11,7 +11,9 @@ The visualization was conceptualized and coded in a few days a week before the p
 
 My goal was to create a space on the web for the types of conversations I had with voters as a political organizer. I also hoped to learn a bit more about the candidates, as well as about my neighbors and my fellow New Yorkers. It felt great to ship in app in just a few days of work, and while I would have loved to see more participation, I consider it a small success to get a few thousand visits. And the map made it to the top of [r/nyc](http://reddit.com/r/nyc) which felt good as a redditor.
 
-![NYC-Dems screenshot]({{ site.url }}/assets/dems-screen.png)
+<div class="center-img-container">
+  <img class="center" width="558" height="390" src="/assets/dems-screen.png" alt="NYC-Dems screenshot">
+</div>
 
 # Participation
 
