@@ -32,7 +32,7 @@ My participation statistics were on par with what I've seen on average on the we
 The design challenge was to create an aesthetic complimentary to Google
 maps. While it is also possible to customize Google maps I simply did
 not have time to go that route. I focused on creating a minimal, flat,
-uncluttered look. For mobile devices I used media queries to clear the
+uncluttered look. For mobile devices I used device width queries to clear the
 screen of non-essential elements.
 
 The appearance of the markers on the map was a major decision. My plan
