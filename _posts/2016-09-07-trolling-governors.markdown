@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recent Work Elsewhere"
+title:  "Trolling Governors and Tricking Cashiers"
 date:   2016-09-07 18:51:00
 categories: humor funny podcasts vice articles politics storytelling
 excerpt: Quick update to note that I've been writing and performing elsewhere, check it out...
