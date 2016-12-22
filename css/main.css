@@ -177,21 +177,15 @@ img .center {
   margin-bottom: 1em;
 }
 
-.post {
-  @media (max-width: 1000px) {
+@media (max-width: 1000px) {
+  .post {
     width: 90%;
     margin: 0 auto;
   }
-}
-
-.site {
-  @media (max-width: 1000px) {
+  .site {
     width: 100%;
   }
-}
-
-#home {
-  @media (max-width: 1000px) {
+  #home {
     width: 95%;
     margin: 0 auto;
   }
