@@ -178,12 +178,14 @@ img .center {
 }
 
 @media (max-width: 1000px) {
+  html, body { height: auto; }
   .post {
     width: 90%;
     margin: 0 auto;
   }
   .site {
     width: 100%;
+    margin: 3rem 1rem 2rem 1rem;
   }
   #home {
     width: 95%;
