@@ -3,7 +3,7 @@ layout: post
 title:  "The New Intern Can't Do Anything Right So There's No Way He's the Serial Murderer Targeting our Office"
 date:   2017-03-07 16:51:00
 categories: humor funny intern office
-excerpt: Yes it is suspicious that since we hired Mark, the new intern, our office has suffered  bizarre string of employee deaths. Yes, the deaths do all have the appearance of homicide...
+excerpt: Yes it is suspicious that since we hired Mark, the new intern, our office has suffered a bizarre string of employee deaths. Yes, the deaths do all have the appearance of homicide...
 ---
 
 Yes it is suspicious that since we hired Mark, the new intern, our office has suffered a bizarre string of employee deaths. Yes, the deaths do all have the appearance of homicide. And yes, it was very creepy and even more suspicious when a blood stained knife fell out of Mark's NPR tote on Friday. And again I agree with you that Mark's general manner could be described as disturbing or sinister. But have you worked with Mark? He can't do ANYTHING right! He's the dumbest intern we've ever had.
